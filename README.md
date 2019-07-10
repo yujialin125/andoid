@@ -1,0 +1,2 @@
+# andoid
+something about android 
